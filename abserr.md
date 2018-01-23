@@ -1,4 +1,4 @@
-# Math 5620 Machine Epsilon
+# Math 5620 Absolute Error
 
 **Routine Name:**           ae
 
@@ -36,9 +36,9 @@ error between those arguments.
 
 Output from the lines above:
 
-      .01
+      0.01
 
-This value (.01) is absolute value of the difference between the two inputs.
+This value (0.01) is absolute value of the difference between the two inputs.
 
 **Implementation/Code:** The following is the code for the ae function
 
