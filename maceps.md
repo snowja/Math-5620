@@ -42,7 +42,7 @@ roughly nineteen (e-19 on the end of the example value).
 
 **Implementation/Code:** The following is the code for me()
 
-      double long me()
+      long double me()
       {
         long double mEpsilon = 1.0;
         int count = 0;
